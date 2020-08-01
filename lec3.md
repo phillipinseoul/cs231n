@@ -4,4 +4,8 @@
 * loss function: predicted score <-> ground truth labels
 * optimization: minimize the loss function with respect to the parameters of the score function
 
-Linear classifiers: 1) SVM  2) Softmax
+## Linear classifiers: 1) SVM  2) Softmax
+1. Multiclass SVM loss
+SVM = Support Vector Machine
+
+
